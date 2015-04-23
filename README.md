@@ -1,6 +1,4 @@
-# Forest-Cover
-
-Guitar wood 
+# Wood for Guitar
 
 1.	Introduction
 
@@ -31,3 +29,7 @@ uploaded which evaluated the prediction to be 53% accurate.
 Better results were achieved other prediction models, best of which being: Support Vector machine (74%), K means (71.016%) 
 and combination (71.77%) of SVM, Naïve Bayes, and K- nearest neighbors. The accuracy table for different methodologies
 applied is given below.
+
+4.	Evaluation
+5.	
+The preliminary findings results in 74% accuracy for test data and 80% while cross validating in SVM. I believe that results are good so far as we have 565892 observation but it can get better with feature selection, Bagging and Random forest. 
